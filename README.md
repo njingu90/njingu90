@@ -5,7 +5,7 @@ Cloud & Devops Engineer
 -----------------------
 
 * 🌍  I'm based in US
-* ✉️  You can contact me at [njingu90@gmail.com](mailto:info@kecy.org)
+* ✉️  You can contact me at [info@kecy.org](mailto:info@kecy.org)
 * 🚀  I'm currently working on [Custom Platforms](http://zenphry.com)
 * 🧠  I'm learning Certified Kubernetes Administrator
 * 🤝  I'm open to collaborating on Cloud Technology, Devops, Building Platforms & AI
