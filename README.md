@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kilosns43@gmail.com**
 
-- ⚡ Fun fact **I enjoy solving challenging cloud problems and think I am funny!**
+- ⚡ Fun fact **I enjoy solving challenging cloud problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
