@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kecy Nji</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer based in Texas</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=njingu90&label=Profile%20views&color=0e75b6&style=flat" alt="njingu90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njingu90" alt="njingu90" /></a> </p>
+<h3 align="center">A passionate Cloud & DevOps Engineer based in the US</h3>
 
 - 🔭 I’m currently working on **Cloud technology, DevOps, building scalable and secure AWS infrastructure, CI/CD pipelines, container orchestration(EKS),Building Platforms & AI**
 
@@ -12,13 +8,23 @@
 
 - 👯 I’m looking to collaborate on **Cloud migration, security automation, AI/ML cloud integrations, DevOps process improvements**
 
-- 💬 Ask me about **AI/ML integrations on AWS, AI , ML, Deep Learning**
+- 💬 Ask me about **AI/ML integrations on AWS, AI, ML, Deep Learning**
 
 - 📫 How to reach me **kilosns43@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving challenging cloud problems**
 
-<h3 align="left">Connect with me:</h3>
+## ⚡️ Stats
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=njingu90&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="njingu90's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=njingu90&theme=transparent&count_private=true&border_radius=10&locale=en" alt="njingu90's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=njingu90&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="njingu90's Most Used Languages" />
+</div>
+
+<hr>
+
 <p align="left">
 </p>
 
