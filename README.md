@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI/ML integrations on AWS, AI, ML, Deep Learning**
 
-- 📫 How to reach me **mail@kecynji.com**
+- 📫 How to reach me **info@kecynji.com**
 
 - ⚡ Fun fact **I enjoy solving challenging cloud problems**
 
